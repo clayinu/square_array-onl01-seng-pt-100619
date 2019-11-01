@@ -4,6 +4,6 @@ def square_array(array)
   newarray = []
 
  array.each do |number|
-    newarray.push()number * number 
+    newarray.push(number * number)
   end 
 end
