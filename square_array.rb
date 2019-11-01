@@ -7,5 +7,5 @@ def square_array(array)
     newarray.push(number * number)
   end 
   
-  return array
+  return newarray
 end
